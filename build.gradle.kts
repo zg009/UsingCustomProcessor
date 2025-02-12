@@ -18,7 +18,7 @@ repositories {
             }
     }
 }
-val version = "0.1.5"
+val version = "0.1.7"
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 //    implementation("com.google.devtools.ksp:symbol-processing-api:2.0.0-1.0.21")
